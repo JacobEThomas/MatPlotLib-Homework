@@ -1,0 +1,9 @@
+(1.) It appears that only two drugs achieved tumor volume reduction: Ramicane, and Capomulin.
+Each of the other drugs, preformed similar to the Placebo.
+
+(2.) Ramicane and Capomulin also appear to be the most effective at limiting Metastatic growth,
+however, these initial findings are less defined. More sttistical exploration is needed to 
+confirm this apparent trend.
+
+(3.) Ramicane and Capomulin also appear to have the lowest mortality rate amongst the mice.
+Propriva and Infubinol have the highest mortality rates.
